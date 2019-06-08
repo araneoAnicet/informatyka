@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include <math.h>
+
 
 int main(){
-    printf("Just first test file\n");
+    int x = 2;
+    printf("%d", x);
     return 0;
 }
